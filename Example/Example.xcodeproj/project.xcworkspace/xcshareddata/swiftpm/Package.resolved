@@ -1,0 +1,24 @@
+{
+  "originHash" : "851945ab4fba7e1881cf48ab780552966f7b852f62c88bd9bf1c58ffdc68835a",
+  "pins" : [
+    {
+      "identity" : "wwntpclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWNtpClient",
+      "state" : {
+        "revision" : "e25cf9c8192cdc4bb616477bbe301b75a549b9dd",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "wwtcpconnection",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWTcpConnection",
+      "state" : {
+        "revision" : "57f600773c0fbd0b802828095b74e316f7de98f0",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
